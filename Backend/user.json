@@ -1,82 +1,8 @@
-[
   {
     "id": 1,
-    "username": "banu",
-    "email": "a@gmail.com",
-    "password": "12345",
-    "dob": "2007-10-18",
-    "age": 17
-  },
-  {
-    "id": 2,
-    "username": "Ashwith",
-    "email": "a@gmail.com",
-    "password": "12345",
-    "dob": "2008-10-15",
-    "age": 16
-  },
-  {
-    "id": 3,
-    "username": "ash",
-    "email": "a2@gmail.com",
-    "password": "12345",
-    "dob": "2010-06-01",
-    "age": 14
-  },
-  {
-    "id": 4,
-    "username": "selvi",
-    "email": "s@gmail.com",
-    "password": "12345",
-    "dob": "1984-11-13",
-    "age": 40
-  },
-  {
-    "id": 5,
     "username": "sample",
     "email": "sample@gmail.com",
     "password": "12345",
     "dob": "2001-01-01",
     "age": 24
   },
-  {
-    "id": 6,
-    "username": "shiva",
-    "email": "hacker@gmail.com",
-    "password": "12345",
-    "dob": "2000-01-01",
-    "age": 25
-  },
-  {
-    "id": 7,
-    "username": "Ashwith",
-    "email": "ashu@gmail.com",
-    "password": "Ashu2001",
-    "dob": "2001-10-17",
-    "age": 23
-  },
-  {
-    "id": 8,
-    "username": "chandan",
-    "email": "chandu@gmail.com",
-    "password": "chandan2001",
-    "dob": "2004-12-17",
-    "age": 20
-  },
-  {
-    "id": 9,
-    "username": "Rajesh",
-    "email": "raj@Gmail.com",
-    "password": "Raj123",
-    "dob": "1985-05-05",
-    "age": 40
-  },
-  {
-    "id": 10,
-    "username": "Ashu",
-    "email": "ashu@gmail.com",
-    "password": "12345",
-    "dob": "2008-10-22",
-    "age": 16
-  }
-]
