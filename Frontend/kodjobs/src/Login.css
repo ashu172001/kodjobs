@@ -1,0 +1,117 @@
+/* Login Page Background */
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(to bottom, #75b9e0, #39a2ec);
+}
+
+/* Login Box */
+.login-box {
+  background: rgba(19, 17, 17, 0.158);
+  padding: 30px;
+  border-radius: 10px;
+  backdrop-filter: blur(5px);
+  box-shadow: 20px 20px 20px rgba(8, 6, 6, 0.2);
+  width: 350px;
+  text-align: center;
+  color: white;
+}
+
+/* Avatar Icon */
+.avatar {
+  font-size: 50px;
+  color: white;
+  margin-bottom: 10px;
+}
+
+/* Input Fields */
+.input-group {
+  display: flex;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.2);
+  padding: 10px;
+  border-radius: 5px;
+  margin: 10px 0;
+}
+
+.input-group i {
+  margin-right: 10px;
+}
+
+.input-group input {
+  background: none;
+  border: none;
+  outline: none;
+  color: white;
+  width: 100%;
+  font-size: 16px;
+}
+
+.input-group input::placeholder {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+/* Options (Remember Me & Forgot Password) */
+.options {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  margin: 10px 0;
+}
+
+.options a {
+  color: white;
+  text-decoration: none;
+}
+
+.options a:hover {
+  text-decoration: underline;
+}
+
+/* Login Button */
+.login-button {
+  background: #007bff;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  width: 100%;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.login-button:hover {
+  background: #0056b3;
+}
+
+/* Register Link */
+.register-link {
+  margin-top: 15px;
+  font-size: 14px;
+}
+
+.register-link a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.register-link a:hover {
+  text-decoration: underline;
+}
+
+.forgot-password {
+  background: none;
+  border: none;
+  color: rgb(255, 251, 251);
+  cursor: pointer;
+  font-size: 14px;
+  text-decoration: underline;
+}
+
+.forgot-password:hover {
+  opacity: 0.8;
+}
