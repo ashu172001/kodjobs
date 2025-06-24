@@ -31,4 +31,15 @@
 - **Storage**: `user.json` file for user data (in place of a database)
 
 ## 📂 Project Structure
+kodjobs/
+│
+├── index.html # Registration Page
+├── login.html # Login Page
+├── dashboard.html # Main Job Dashboard
+├── apply.html # Job Application Form
+├── styles/ # CSS files
+├── scripts/ # JS files
+├── assets/ # Logos, icons, etc.
+└── user.json # Local user data store
+
 
