@@ -7,7 +7,7 @@
 - 🔐 **User Authentication**
   - Sign Up with Username, Email, Password, and Date of Birth
   - Login with saved credentials from `user.json`
-  - Social Login UI buttons (Google/Facebook) included
+
 
 - 🧑‍💼 **Dashboard - Job Listings**
   - Company logo and LPA (Salary) shown on each job card
